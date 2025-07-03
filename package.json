@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/georapbox/barcode-scanner.git"
+    "url": "git+https://github.com/Lincata/barcode-scanner.git"
   },
   "keywords": [
     "aztec",
@@ -36,14 +36,13 @@
     "scanner"
   ],
   "author": {
-    "name": "George Raptis",
-    "email": "georapbox@gmail.com"
+    "name": "Nathan Putnam"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/georapbox/barcode-scanner/issues"
+    "url": "https://github.com/Lincata/barcode-scanner/issues"
   },
-  "homepage": "https://github.com/georapbox/barcode-scanner#readme",
+  "homepage": "https://github.com/Lincata/barcode-scanner#readme",
   "devDependencies": {
     "@eslint/js": "~9.26.0",
     "@parcel/packager-raw-url": "~2.15.0",
